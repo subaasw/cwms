@@ -1,4 +1,4 @@
-# Community Waste Management System
+# CWMS (Community Waste Management System)
 
 ## Frontend 
 ```bash
